@@ -6,9 +6,9 @@
 //  Copyright © 2019 Vaibhav Bangde. All rights reserved.
 //
 
-import Foundation
+import UIKit
 
 protocol TopStoriesRouterProtocol {
     func createTopStoriesModule() -> TopStoriesViewController
-    func pushViewController()
+    func pushToStoryDetailScreen (navigationController:UINavigationController)
 }

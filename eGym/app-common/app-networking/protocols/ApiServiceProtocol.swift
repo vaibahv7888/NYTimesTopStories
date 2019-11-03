@@ -20,4 +20,7 @@ protocol ApiServiceProtocol {
               queryParameters: [String:String]?,
               headers: [String:String]?,
               completion: @escaping CompletionHandler)
+    
+    func fetchImage(url:URL?,
+                    completion: @escaping (UIImage?)->Void)
 }

@@ -6,10 +6,11 @@
 //  Copyright © 2019 Vaibhav Bangde. All rights reserved.
 //
 
-import Foundation
+import UIKit
 
 protocol TopStoriesPresenterProtocol {
     func fetchTopStories(complition: @escaping (Bool?)->Void)
     func getNumberOfRowsInSection() -> Int
     func storyEntity(For Row:Int) -> StoryEntity?
+    func storyImage(for row:StoryEntity, completion: @escaping (UIImage?)->Void)
 }

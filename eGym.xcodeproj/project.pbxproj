@@ -28,7 +28,11 @@
 		D4A4B84B236CC36E00480CC9 /* FetchTopStoriesServiceProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4A4B84A236CC36E00480CC9 /* FetchTopStoriesServiceProtocol.swift */; };
 		D4A4B84F236D389900480CC9 /* TopStoriesPresenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4A4B84E236D389900480CC9 /* TopStoriesPresenter.swift */; };
 		D4A4B851236D38C200480CC9 /* TopStoriesPresenterProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4A4B850236D38C200480CC9 /* TopStoriesPresenterProtocol.swift */; };
+		D4B35FEB236F1B8500A0C445 /* FetchCellImageServiceProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4B35FEA236F1B8500A0C445 /* FetchCellImageServiceProtocol.swift */; };
+		D4B35FED236F1C0E00A0C445 /* FetchCellImageService.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4B35FEC236F1C0E00A0C445 /* FetchCellImageService.swift */; };
 		D4BB7711236ED9D70037819C /* StoryDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4BB7710236ED9D70037819C /* StoryDetailViewController.swift */; };
+		D4BB7715236F14790037819C /* FetchImageUrlFromStoryServiceProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4BB7714236F14790037819C /* FetchImageUrlFromStoryServiceProtocol.swift */; };
+		D4BB7717236F161D0037819C /* FetchImageUrlFromStoryService.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4BB7716236F161D0037819C /* FetchImageUrlFromStoryService.swift */; };
 		D4C37731236D4FAA0077E0F1 /* TopStoriesEntity.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4C37730236D4FAA0077E0F1 /* TopStoriesEntity.swift */; };
 		D4C37733236D50B80077E0F1 /* StoryEntity.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4C37732236D50B80077E0F1 /* StoryEntity.swift */; };
 		D4C37735236D52500077E0F1 /* MultimediaEntity.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4C37734236D52500077E0F1 /* MultimediaEntity.swift */; };
@@ -82,7 +86,11 @@
 		D4A4B84A236CC36E00480CC9 /* FetchTopStoriesServiceProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FetchTopStoriesServiceProtocol.swift; sourceTree = "<group>"; };
 		D4A4B84E236D389900480CC9 /* TopStoriesPresenter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopStoriesPresenter.swift; sourceTree = "<group>"; };
 		D4A4B850236D38C200480CC9 /* TopStoriesPresenterProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopStoriesPresenterProtocol.swift; sourceTree = "<group>"; };
+		D4B35FEA236F1B8500A0C445 /* FetchCellImageServiceProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FetchCellImageServiceProtocol.swift; sourceTree = "<group>"; };
+		D4B35FEC236F1C0E00A0C445 /* FetchCellImageService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FetchCellImageService.swift; sourceTree = "<group>"; };
 		D4BB7710236ED9D70037819C /* StoryDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoryDetailViewController.swift; sourceTree = "<group>"; };
+		D4BB7714236F14790037819C /* FetchImageUrlFromStoryServiceProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FetchImageUrlFromStoryServiceProtocol.swift; sourceTree = "<group>"; };
+		D4BB7716236F161D0037819C /* FetchImageUrlFromStoryService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FetchImageUrlFromStoryService.swift; sourceTree = "<group>"; };
 		D4C37730236D4FAA0077E0F1 /* TopStoriesEntity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopStoriesEntity.swift; sourceTree = "<group>"; };
 		D4C37732236D50B80077E0F1 /* StoryEntity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoryEntity.swift; sourceTree = "<group>"; };
 		D4C37734236D52500077E0F1 /* MultimediaEntity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultimediaEntity.swift; sourceTree = "<group>"; };
@@ -227,6 +235,7 @@
 		D423748E236B4B150049E3F5 /* detailView-module */ = {
 			isa = PBXGroup;
 			children = (
+				D4BB7713236F060B0037819C /* router */,
 				D4BB770F236ED99A0037819C /* view */,
 			);
 			path = "detailView-module";
@@ -248,6 +257,7 @@
 				D4A4B84A236CC36E00480CC9 /* FetchTopStoriesServiceProtocol.swift */,
 				D4A4B850236D38C200480CC9 /* TopStoriesPresenterProtocol.swift */,
 				D4C37738236D5CB80077E0F1 /* CreateStoryEntitiesServiceProtocol.swift */,
+				D4B35FEA236F1B8500A0C445 /* FetchCellImageServiceProtocol.swift */,
 			);
 			path = protocols;
 			sourceTree = "<group>";
@@ -264,7 +274,9 @@
 		D4237498236B6F1A0049E3F5 /* app-utils */ = {
 			isa = PBXGroup;
 			children = (
+				D4BB7718236F1B160037819C /* protocols */,
 				D4237499236B70120049E3F5 /* AppUtils.swift */,
+				D4BB7716236F161D0037819C /* FetchImageUrlFromStoryService.swift */,
 			);
 			path = "app-utils";
 			sourceTree = "<group>";
@@ -301,6 +313,7 @@
 			children = (
 				D4A4B848236CC33D00480CC9 /* FetchTopStoriesService.swift */,
 				D4C37736236D5C690077E0F1 /* CreateStoryEntitiesService.swift */,
+				D4B35FEC236F1C0E00A0C445 /* FetchCellImageService.swift */,
 			);
 			path = services;
 			sourceTree = "<group>";
@@ -319,6 +332,21 @@
 				D4BB7710236ED9D70037819C /* StoryDetailViewController.swift */,
 			);
 			path = view;
+			sourceTree = "<group>";
+		};
+		D4BB7713236F060B0037819C /* router */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = router;
+			sourceTree = "<group>";
+		};
+		D4BB7718236F1B160037819C /* protocols */ = {
+			isa = PBXGroup;
+			children = (
+				D4BB7714236F14790037819C /* FetchImageUrlFromStoryServiceProtocol.swift */,
+			);
+			path = protocols;
 			sourceTree = "<group>";
 		};
 		D4C20B52236EC0350098522E /* app-common */ = {
@@ -475,7 +503,9 @@
 				D4A4B851236D38C200480CC9 /* TopStoriesPresenterProtocol.swift in Sources */,
 				D423749F236B7B2F0049E3F5 /* TopStoriesInteractorProtocol.swift in Sources */,
 				D4237495236B5DD90049E3F5 /* TopStoriesViewController.swift in Sources */,
+				D4B35FEB236F1B8500A0C445 /* FetchCellImageServiceProtocol.swift in Sources */,
 				D4A4B844236CBB2100480CC9 /* ApiService.swift in Sources */,
+				D4B35FED236F1C0E00A0C445 /* FetchCellImageService.swift in Sources */,
 				D4C37735236D52500077E0F1 /* MultimediaEntity.swift in Sources */,
 				D4C37733236D50B80077E0F1 /* StoryEntity.swift in Sources */,
 				D4237497236B5E1F0049E3F5 /* TopStoriesRouter.swift in Sources */,
@@ -493,6 +523,8 @@
 				D4237492236B5AA70049E3F5 /* TopStoriesRouterProtocol.swift in Sources */,
 				D4237458236B45C10049E3F5 /* SceneDelegate.swift in Sources */,
 				D4A4B846236CBD0200480CC9 /* ApiProtocol.swift in Sources */,
+				D4BB7715236F14790037819C /* FetchImageUrlFromStoryServiceProtocol.swift in Sources */,
+				D4BB7717236F161D0037819C /* FetchImageUrlFromStoryService.swift in Sources */,
 				D4237460236B45C10049E3F5 /* eGym.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

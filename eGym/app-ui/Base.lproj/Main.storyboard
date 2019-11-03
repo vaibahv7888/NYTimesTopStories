@@ -15,11 +15,11 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="YAv-Od-fWw">
+                            <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="none" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="YAv-Od-fWw">
                                 <rect key="frame" x="0.0" y="44" width="414" height="818"/>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
                                 <prototypes>
-                                    <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" restorationIdentifier="TopStoryTableViewCell" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" reuseIdentifier="TopStoryTableViewCell" rowHeight="95" id="C2R-Ug-XdK" customClass="TopStoryTableViewCell" customModule="eGym" customModuleProvider="target">
+                                    <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" restorationIdentifier="TopStoryTableViewCell" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" reuseIdentifier="TopStoryTableViewCell" id="C2R-Ug-XdK" customClass="TopStoryTableViewCell" customModule="eGym" customModuleProvider="target">
                                         <rect key="frame" x="0.0" y="28" width="414" height="95"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="C2R-Ug-XdK" id="V8o-Ab-vjU">
@@ -71,9 +71,14 @@
                                     <outlet property="delegate" destination="BYZ-38-t0r" id="2Uh-eV-ppE"/>
                                 </connections>
                             </tableView>
+                            <activityIndicatorView opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" style="medium" translatesAutoresizingMaskIntoConstraints="NO" id="mnz-WT-UOZ">
+                                <rect key="frame" x="197" y="443" width="20" height="20"/>
+                            </activityIndicatorView>
                         </subviews>
                         <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
                         <constraints>
+                            <constraint firstItem="mnz-WT-UOZ" firstAttribute="centerY" secondItem="6Tk-OE-BBY" secondAttribute="centerY" id="20b-df-wKz"/>
+                            <constraint firstItem="mnz-WT-UOZ" firstAttribute="centerX" secondItem="6Tk-OE-BBY" secondAttribute="centerX" id="2AT-KS-w4M"/>
                             <constraint firstItem="YAv-Od-fWw" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" id="9dc-TI-n6D"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="YAv-Od-fWw" secondAttribute="bottom" id="DKG-8l-h6S"/>
                             <constraint firstItem="YAv-Od-fWw" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="t0z-wj-mlo"/>
@@ -83,6 +88,7 @@
                     </view>
                     <navigationItem key="navigationItem" id="IxN-aH-nJN"/>
                     <connections>
+                        <outlet property="activitiIndicator" destination="mnz-WT-UOZ" id="jj3-lv-2bX"/>
                         <outlet property="topStoryTableView" destination="YAv-Od-fWw" id="E02-rH-oBd"/>
                     </connections>
                 </viewController>

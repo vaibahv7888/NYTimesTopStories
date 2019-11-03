@@ -11,6 +11,7 @@ import UIKit
 class TopStoriesViewController: UIViewController {
     
     @IBOutlet weak var topStoryTableView: UITableView!
+    @IBOutlet weak var activitiIndicator: UIActivityIndicatorView!
     
     var topStoriesPresenter:TopStoriesPresenterProtocol?
     
@@ -22,11 +23,16 @@ class TopStoriesViewController: UIViewController {
         self.topStoryTableView.rowHeight = UITableView.automaticDimension
         self.topStoryTableView.estimatedRowHeight = 600
         
+        self.activitiIndicator.isHidden = false
+        self.activitiIndicator.startAnimating()
+        
         self.topStoriesPresenter?.fetchTopStories(complition: { (response) in
             guard let isSuccess = response else { return }
             DispatchQueue.main.async {
                 if isSuccess {
                     self.topStoryTableView.reloadData()
+                    self.activitiIndicator.stopAnimating()
+                    self.activitiIndicator.isHidden = true
                 }
             }
         })
@@ -48,13 +54,12 @@ extension TopStoriesViewController : UITableViewDelegate, UITableViewDataSource 
         if let presenter = self.topStoriesPresenter, let story = presenter.storyEntity(For: indexPath.row) {
             cell.storyTitle.text = story.title
             cell.storyAuthor.text = story.byline
-            if let urlStr = story.multimedia.first (where: { $0.height == 75 && $0.width == 75})?.url {
-                let url = URL(string: urlStr)
-                if let data = try? Data(contentsOf: url!)
-                {
-                    cell.storyImageView.image = UIImage(data: data)
+            presenter.storyImage(for: story, completion: { (response) in
+                guard let image = response else { return }
+                DispatchQueue.main.async {
+                    cell.storyImageView.image = image
                 }
-            }
+            })
         }
         return cell
     }

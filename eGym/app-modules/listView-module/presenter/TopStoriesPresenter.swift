@@ -41,7 +41,13 @@ class TopStoriesPresenter : TopStoriesPresenterProtocol {
         return stories[Row]
     }
     
-    func storyImage(for row:Int) -> UIImage? {
-        return nil
+    func storyImage(for story:StoryEntity, completion: @escaping (UIImage?)->Void) {
+        self.topStoriesInteractor.fetchCellImage(from: story) { (response) in
+            guard let image = response else {
+                completion(nil)
+                return
+            }
+            completion(image)
+        }
     }
 }

@@ -15,8 +15,12 @@ struct TopStoriesRouter : TopStoriesRouterProtocol {
         let apiService = ApiService()
         let fetchTopStoriesService = FetchTopStoriesService(apiService: apiService)
         let createStoryEntityService = CreateStoryEntitiesService()
+        let fetchImageUrlFromStory = FetchImageUrlFromStoryService()
+        let fetchCellImageService = FetchCellImageService(apiService: apiService)
         let topStoriesInteractor = TopStoriesInteractor(fetchTopStoriesService: fetchTopStoriesService,
-                                                        createStoryEntityService: createStoryEntityService)
+                                                        createStoryEntityService: createStoryEntityService,
+                                                        fetchImageUrlFromStory: fetchImageUrlFromStory,
+                                                        fetchCellImageService : fetchCellImageService)
         let topStoriesPresentor = TopStoriesPresenter(topStoriesInteractor: topStoriesInteractor)
         
         view.topStoriesPresenter = topStoriesPresentor
@@ -24,7 +28,7 @@ struct TopStoriesRouter : TopStoriesRouterProtocol {
         return view
     }
     
-    func pushViewController() {
+    func pushToStoryDetailScreen (navigationController:UINavigationController) {
         
     }
     

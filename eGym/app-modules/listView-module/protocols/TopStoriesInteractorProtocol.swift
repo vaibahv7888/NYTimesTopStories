@@ -6,8 +6,9 @@
 //  Copyright © 2019 Vaibhav Bangde. All rights reserved.
 //
 
-import Foundation
+import UIKit
 
 protocol TopStoriesInteractorProtocol {
     func fetchTopStories(completion: @escaping ([StoryEntity]?)->Void)
+    func fetchCellImage(from story:StoryEntity, completion: @escaping (UIImage?)->Void)
 }
