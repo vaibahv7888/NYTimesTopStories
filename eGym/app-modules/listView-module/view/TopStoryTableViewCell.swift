@@ -17,6 +17,7 @@ class TopStoryTableViewCell: UITableViewCell {
     override func awakeFromNib() {
         super.awakeFromNib()
         // Initialization code
+        styleSetup()
     }
 
     override func setSelected(_ selected: Bool, animated: Bool) {
@@ -24,4 +25,12 @@ class TopStoryTableViewCell: UITableViewCell {
         // Configure the view for the selected state
     }
 
+    override func prepareForReuse() {
+        storyImageView.image = nil
+    }
+    
+    func styleSetup() {
+        storyImageView.layer.borderWidth = 0.5
+        storyImageView.layer.borderColor = UIColor.lightGray.cgColor
+    }
 }

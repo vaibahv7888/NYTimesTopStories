@@ -235,9 +235,9 @@
 		D423748C236B4A980049E3F5 /* app-modules */ = {
 			isa = PBXGroup;
 			children = (
-				D4B35FFD236F689C00A0C445 /* webPage-module */,
 				D423748D236B4AD30049E3F5 /* listView-module */,
 				D423748E236B4B150049E3F5 /* detailView-module */,
+				D4B35FFD236F689C00A0C445 /* webPage-module */,
 			);
 			path = "app-modules";
 			sourceTree = "<group>";
