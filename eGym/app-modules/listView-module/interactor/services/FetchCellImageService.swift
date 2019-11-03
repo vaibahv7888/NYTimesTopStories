@@ -9,14 +9,14 @@
 import UIKit
 
 struct FetchCellImageService : FetchCellImageServiceProtocol {
-    let apiService : ApiServiceProtocol?
+    let apiService : ApiServiceProtocol
     
     init(apiService:ApiServiceProtocol) {
         self.apiService = apiService
     }
     
     func fetchCellImage(url: URL?, completion: @escaping (UIImage?) -> Void) {
-        apiService?.fetchImage(url: url, completion: { (response) in
+        self.apiService.fetchImage(url: url, completion: { (response) in
             guard let image = response else {
                 completion(nil)
                 return

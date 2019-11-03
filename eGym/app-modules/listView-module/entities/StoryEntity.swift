@@ -15,6 +15,7 @@ struct StoryEntity : Codable {
     let url : String
     let byline : String
     let short_url : String
+    let abstract : String
     let multimedia : [MultimediaEntity]
     
     enum CodingKeys : CodingKey {
@@ -24,6 +25,7 @@ struct StoryEntity : Codable {
         case url
         case byline
         case short_url
+        case abstract
         case multimedia
     }
 

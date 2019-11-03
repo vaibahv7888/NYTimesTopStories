@@ -10,7 +10,7 @@ import UIKit
 
 struct TopStoriesRouter : TopStoriesRouterProtocol {
     func createTopStoriesModule() -> TopStoriesViewController {
-        let view = TopStoriesRouter.mainstoryboard.instantiateViewController(withIdentifier: "TopStoriesViewController") as! TopStoriesViewController
+        let view = AppUtils.mainstoryboard.instantiateViewController(withIdentifier: "TopStoriesViewController") as! TopStoriesViewController
         
         let apiService = ApiService()
         let fetchTopStoriesService = FetchTopStoriesService(apiService: apiService)
@@ -21,18 +21,16 @@ struct TopStoriesRouter : TopStoriesRouterProtocol {
                                                         createStoryEntityService: createStoryEntityService,
                                                         fetchImageUrlFromStory: fetchImageUrlFromStory,
                                                         fetchCellImageService : fetchCellImageService)
-        let topStoriesPresentor = TopStoriesPresenter(topStoriesInteractor: topStoriesInteractor)
+        let topStoriesPresentor = TopStoriesPresenter(topStoriesInteractor: topStoriesInteractor, topStoriesRouter: self)
         
         view.topStoriesPresenter = topStoriesPresentor
         
         return view
     }
     
-    func pushToStoryDetailScreen (navigationController:UINavigationController) {
-        
-    }
-    
-    static var mainstoryboard: UIStoryboard {
-        return UIStoryboard(name:"Main",bundle: Bundle.main)
+    func moveToStoryDetailScreen(story:StoryEntity, navigationController:UINavigationController) {
+        let storyDetailRouter = StoryDetailRouter()
+        let storyDetailViewController = storyDetailRouter.createStoryDetailModule(story: story)
+        navigationController.pushViewController(storyDetailViewController, animated: true)
     }
 }

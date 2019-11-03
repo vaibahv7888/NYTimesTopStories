@@ -13,4 +13,5 @@ protocol TopStoriesPresenterProtocol {
     func getNumberOfRowsInSection() -> Int
     func storyEntity(For Row:Int) -> StoryEntity?
     func storyImage(for row:StoryEntity, completion: @escaping (UIImage?)->Void)
+    func moveToStoryDetailScreen(story:StoryEntity, navigationController:UINavigationController)
 }

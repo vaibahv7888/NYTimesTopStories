@@ -10,5 +10,5 @@ import UIKit
 
 protocol TopStoriesRouterProtocol {
     func createTopStoriesModule() -> TopStoriesViewController
-    func pushToStoryDetailScreen (navigationController:UINavigationController)
+    func moveToStoryDetailScreen (story:StoryEntity, navigationController:UINavigationController)
 }

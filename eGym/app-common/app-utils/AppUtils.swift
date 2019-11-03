@@ -6,6 +6,8 @@
 //  Copyright © 2019 Vaibhav Bangde. All rights reserved.
 //
 
+import UIKit
+
 public enum HTTPMethod: String {
     case options = "OPTIONS"
     case get     = "GET"
@@ -24,4 +26,10 @@ public enum StoryImageFormats : String {
     case normal                 = "Normal"
     case mediumThreeByTwo210    = "mediumThreeByTwo210"
     case superJumbo             = "superJumbo"
+}
+
+struct AppUtils {
+    static var mainstoryboard: UIStoryboard {
+        return UIStoryboard(name:"Main",bundle: Bundle.main)
+    }
 }

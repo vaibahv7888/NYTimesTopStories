@@ -65,6 +65,8 @@ extension TopStoriesViewController : UITableViewDelegate, UITableViewDataSource 
     }
     
     func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
-        
+        guard let navController = navigationController else { return }
+        guard let presenter = self.topStoriesPresenter, let story = presenter.storyEntity(For: indexPath.row)  else { return }
+        presenter.moveToStoryDetailScreen(story: story, navigationController: navController)
     }
 }

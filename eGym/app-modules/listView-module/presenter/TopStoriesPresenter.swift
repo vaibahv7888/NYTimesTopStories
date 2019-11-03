@@ -12,11 +12,14 @@ import UIKit
 class TopStoriesPresenter : TopStoriesPresenterProtocol {
     
     let topStoriesInteractor : TopStoriesInteractorProtocol
+    let topStoriesRouter : TopStoriesRouterProtocol
     
     var topStories : [StoryEntity]?
     
-    init(topStoriesInteractor : TopStoriesInteractorProtocol) {
+    init(topStoriesInteractor : TopStoriesInteractorProtocol,
+         topStoriesRouter : TopStoriesRouterProtocol) {
         self.topStoriesInteractor = topStoriesInteractor
+        self.topStoriesRouter = topStoriesRouter
     }
 
     func fetchTopStories(complition: @escaping (Bool?) -> Void) {
@@ -49,5 +52,9 @@ class TopStoriesPresenter : TopStoriesPresenterProtocol {
             }
             completion(image)
         }
+    }
+    
+    func moveToStoryDetailScreen(story: StoryEntity, navigationController: UINavigationController) {
+        self.topStoriesRouter.moveToStoryDetailScreen(story: story, navigationController: navigationController)
     }
 }
