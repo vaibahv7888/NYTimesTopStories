@@ -8,6 +8,7 @@
 
 import UIKit
 
+// Story Detail Interactor Implementation.
 struct StoryDetailInteractor : StoryDetailInteractorProtocol {
     
     let apiService : ApiServiceProtocol

@@ -8,6 +8,7 @@
 
 import UIKit
 
+// Story Detail Presenter Implementation.
 struct StoryDetailPresenter : StoryDetailPresenterProtocol {
     
     var story : StoryEntity

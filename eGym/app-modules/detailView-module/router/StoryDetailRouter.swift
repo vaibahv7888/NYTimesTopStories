@@ -8,6 +8,7 @@
 
 import UIKit
 
+// Story Detail Router Implementation.
 struct StoryDetailRouter : StoryDetailRouterProtocol {
     func createStoryDetailModule(story:StoryEntity) -> StoryDetailViewController {
         let view = AppUtils.mainstoryboard.instantiateViewController(withIdentifier: "StoryDetailViewController") as! StoryDetailViewController

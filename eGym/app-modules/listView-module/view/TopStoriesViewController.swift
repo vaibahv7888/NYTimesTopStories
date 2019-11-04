@@ -39,10 +39,10 @@ class TopStoriesViewController: UIViewController {
     }
 }
 
+// MARK: - TableView Delegate and DataSource Implementation.
 extension TopStoriesViewController : UITableViewDelegate, UITableViewDataSource {
     func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
         guard let count = self.topStoriesPresenter?.getNumberOfRowsInSection() else { return 1 }
-        print(count)
         return count
     }
     

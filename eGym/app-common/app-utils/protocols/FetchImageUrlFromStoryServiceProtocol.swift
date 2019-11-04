@@ -8,6 +8,7 @@
 
 import Foundation
 
+// Common protocol for getting different sized images from a Story object from anywhere in the application.
 protocol FetchImageUrlFromStoryServiceProtocol {
     func imageUrl(for story:StoryEntity, with imageFormate:StoryImageFormats) -> URL?
 }

@@ -9,7 +9,14 @@
 import Foundation
 import UIKit
 
+// NOTE :
+// Underlying Implementation of ApiService can be changed without effecting other parts of the application.
+// The current implementation uses native Networking classes such as URLSession, URLComponents, URLQueryItem, etc..
+// This can be replaced with third party Libraries like Alamofire or AFNetworking.
+
 struct ApiService {
+    
+    // Create URLRequest from URL.
     private func createURLRequest(for apiUrl: URL?,
                           method: HTTPMethod = .get,
                           queryParameters: [String: Any]?,
@@ -41,6 +48,7 @@ struct ApiService {
         return request
     }
     
+    // Exicute API call.
     private func exicuteApi (apiUrl:URL?,
                              method: HTTPMethod = .get,
                              queryParameters: [String: Any]?,
@@ -70,7 +78,11 @@ struct ApiService {
     }
 }
 
+// MARK: - ApiServiceProtoCol Implementation
+// Note : APIServiceProtocol is the abstraction layer for rest of the project to access Networking services.
+//API service protocol implementaion.
 extension ApiService : ApiServiceProtocol {
+    // Get Method Implementation.
    func get(apiUrl: URL?, queryParameters: [String : Any]?, headers: [String : String]?, completion: @escaping CompletionHandler) {
        self.exicuteApi(apiUrl: apiUrl,
                        method: .get,
@@ -85,6 +97,7 @@ extension ApiService : ApiServiceProtocol {
            })
    }
    
+    //Post Method Implementation.
    func post(apiUrl: URL?, queryParameters: [String : String]?, headers: [String : String]?, completion: @escaping CompletionHandler) {
                self.exicuteApi(apiUrl: apiUrl,
                        method: .post,
@@ -100,6 +113,7 @@ extension ApiService : ApiServiceProtocol {
 
    }
     
+    //Fetch Image Implementation.
     func fetchImage(url:URL?, completion: @escaping (UIImage?)->Void) {
         self.get(apiUrl: url, queryParameters: nil, headers: nil) { (imageData) in
             guard let data = imageData, let image = UIImage(data: data) else {

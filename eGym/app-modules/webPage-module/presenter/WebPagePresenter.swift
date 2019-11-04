@@ -8,6 +8,7 @@
 
 import Foundation
 
+// Web Page Presenter Implementation.
 struct WebPagePresenter : WebPagePresenterProtocol {
     
     var urlString : String

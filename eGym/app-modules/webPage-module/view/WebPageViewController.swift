@@ -26,6 +26,7 @@ class WebPageViewController: UIViewController {
     }
 }
 
+// Mark: - WKNavigationDelegate Implementation
 extension WebPageViewController : WKNavigationDelegate {
     override func loadView() {
         super.loadView()

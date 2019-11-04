@@ -8,6 +8,7 @@
 
 import  Foundation
 
+// API format protocol.
 protocol ApiProtocol {
     var path : String {get}
     func getUrl() -> URL?

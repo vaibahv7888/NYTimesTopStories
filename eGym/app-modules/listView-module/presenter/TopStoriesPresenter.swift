@@ -9,6 +9,7 @@
 import Foundation
 import UIKit
 
+// TopStories Presenter Implementation.
 class TopStoriesPresenter : TopStoriesPresenterProtocol {
     
     let topStoriesInteractor : TopStoriesInteractorProtocol

@@ -8,6 +8,7 @@
 
 import UIKit
 
+// TopStories Interactor Implementation.
 struct TopStoriesInteractor : TopStoriesInteractorProtocol {
     
     let topStoriesFetchService : FetchTopStoriesServiceProtocol
@@ -25,16 +26,22 @@ struct TopStoriesInteractor : TopStoriesInteractorProtocol {
         self.fetchCellImageService = fetchCellImageService
     }
     
+    // Fetch Top Stories.
     func fetchTopStories(completion: @escaping ([StoryEntity]?) -> Void) {
         self.topStoriesFetchService.fetchTopStories(completion: { response in
             guard let res = response else {
                 completion(nil)
                 return
             }
-            completion(self.createStoryEntityService.createStoryEntities(from: res))
+            guard let stories = self.createStoryEntityService.createStoryEntities(from: res) else {
+                completion(nil)
+                return
+            }
+            completion(stories)
         })
     }
     
+    // Fetch cell Image.
     func fetchCellImage(from story:StoryEntity, completion: @escaping (UIImage?)->Void) {
         guard let imageUrl = self.fetchImageUrlFromStoryService.imageUrl(for: story, with: .thumbnail) else {
             completion(nil)

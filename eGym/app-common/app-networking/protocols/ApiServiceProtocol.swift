@@ -10,6 +10,7 @@ import UIKit
 
 typealias CompletionHandler = (_ response:Data?) ->Void
 
+// API service abstraction protocol.
 protocol ApiServiceProtocol {
     func get(apiUrl: URL?,
              queryParameters: [String:Any]?,
