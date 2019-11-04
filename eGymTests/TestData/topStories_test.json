@@ -1,0 +1,2765 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2019 The New York Times Company. All Rights Reserved.",
+    "section": "home",
+    "last_updated": "2019-11-04T04:57:07-05:00",
+    "num_results": 35,
+    "results": [
+        {
+            "section": "World",
+            "subsection": "Europe",
+            "title": "The Money Farmers: How Oligarchs and Populists Milk the E.U. for Millions",
+            "abstract": "The European Union spends $65 billion a year subsidizing agriculture. But a chunk of that money emboldens strongmen, enriches politicians and finances corrupt dealing.",
+            "url": "https://www.nytimes.com/2019/11/03/world/europe/eu-farm-subsidy-hungary.html",
+            "byline": "By SELAM GEBREKIDAN, MATT APUZZO and BENJAMIN NOVAK",
+            "item_type": "Article",
+            "updated_date": "2019-11-03T04:42:09-05:00",
+            "created_date": "2019-11-03T02:55:20-05:00",
+            "published_date": "2019-11-03T02:55:20-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Agriculture and Farming",
+                "Crop Controls and Subsidies",
+                "Corruption (Institutional)",
+                "Politics and Government",
+                "Organized Crime",
+                "Conflicts of Interest",
+                "Legislatures and Parliaments"
+            ],
+            "org_facet": [
+                "European Union",
+                "European Parliament",
+                "Fidesz Party"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Eastern Europe",
+                "Hungary",
+                "Bulgaria",
+                "Czech Republic",
+                "Slovakia"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2019/10/29/world/xxfarms15-hungarian/merlin_160737591_81cfe660-955e-4a3c-b439-f372cc0121b4-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Fields near Lovasbereny, Fejer County.",
+                    "copyright": "Akos Stiller for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/10/29/world/xxfarms15-hungarian/merlin_160737591_81cfe660-955e-4a3c-b439-f372cc0121b4-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Fields near Lovasbereny, Fejer County.",
+                    "copyright": "Akos Stiller for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/10/29/world/xxfarms15-hungarian/merlin_160737591_81cfe660-955e-4a3c-b439-f372cc0121b4-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Fields near Lovasbereny, Fejer County.",
+                    "copyright": "Akos Stiller for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/10/29/world/xxfarms15-hungarian/merlin_160737591_81cfe660-955e-4a3c-b439-f372cc0121b4-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Fields near Lovasbereny, Fejer County.",
+                    "copyright": "Akos Stiller for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/10/29/world/xxfarms15-hungarian/merlin_160737591_81cfe660-955e-4a3c-b439-f372cc0121b4-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Fields near Lovasbereny, Fejer County.",
+                    "copyright": "Akos Stiller for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2NNuW5J"
+        },
+        {
+            "section": "World",
+            "subsection": "Europe",
+            "title": "Pénzes gazdák: hogyan fejik meg az Európai Uniót az oligarchák és a populisták.",
+            "abstract": "Az Európai Unió 65 milliárd dollárt költ évente a mezőgazdaság támogatására. Ennek jelentős része kedvez az önkényuraknak, pénzzel tömi a politikusokat, és korrupt ügyeket finanszíroz.",
+            "url": "https://www.nytimes.com/hu/2019/11/03/world/europe/eu-agrar-tamogatas-magyarorszag.html",
+            "byline": "By SELAM GEBREKIDAN, MATT APUZZO and BENJAMIN NOVAK",
+            "item_type": "Article",
+            "updated_date": "2019-11-03T05:18:49-05:00",
+            "created_date": "2019-11-03T02:55:20-05:00",
+            "published_date": "2019-11-03T02:55:20-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Agriculture and Farming",
+                "Politics and Government",
+                "Organized Crime",
+                "Conflicts of Interest",
+                "Corruption (Institutional)",
+                "Legislatures and Parliaments"
+            ],
+            "org_facet": [
+                "European Parliament",
+                "European Union"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [],
+            "short_url": "https://nyti.ms/2WEn5LE"
+        },
+        {
+            "section": "Business",
+            "subsection": "",
+            "title": "These Machines Can Put You in Jail. Don’t Trust Them.",
+            "abstract": "Alcohol breath tests, a linchpin of the criminal justice system, are often unreliable, a Times investigation found.",
+            "url": "https://www.nytimes.com/2019/11/03/business/drunk-driving-breathalyzer.html",
+            "byline": "By STACY COWLEY and JESSICA SILVER-GREENBERG",
+            "item_type": "Article",
+            "updated_date": "2019-11-03T12:53:32-05:00",
+            "created_date": "2019-11-03T05:00:16-05:00",
+            "published_date": "2019-11-03T05:00:16-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Tests (Sobriety)",
+                "Drunken and Reckless Driving",
+                "Tests (Medical)",
+                "Police",
+                "Alcoholic Beverages",
+                "Forensic Science"
+            ],
+            "org_facet": [
+                "CMI Inc",
+                "Drager"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/04/business/02breathalyzers2-tears/00breathalyzers2-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Dr&auml;ger Alcotest 9510 and similar devices from other manufacturers are found in police stations across the country. The test results produced by these machines are increasingly drawing skepticism from judges.",
+                    "copyright": "Cooper Neill for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/04/business/02breathalyzers2-tears/00breathalyzers2-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Dr&auml;ger Alcotest 9510 and similar devices from other manufacturers are found in police stations across the country. The test results produced by these machines are increasingly drawing skepticism from judges.",
+                    "copyright": "Cooper Neill for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/04/business/02breathalyzers2-tears/00breathalyzers2-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 119,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Dr&auml;ger Alcotest 9510 and similar devices from other manufacturers are found in police stations across the country. The test results produced by these machines are increasingly drawing skepticism from judges.",
+                    "copyright": "Cooper Neill for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/04/business/02breathalyzers2-tears/00breathalyzers2-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Dr&auml;ger Alcotest 9510 and similar devices from other manufacturers are found in police stations across the country. The test results produced by these machines are increasingly drawing skepticism from judges.",
+                    "copyright": "Cooper Neill for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/04/business/02breathalyzers2-tears/00breathalyzers2-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1286,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Dr&auml;ger Alcotest 9510 and similar devices from other manufacturers are found in police stations across the country. The test results produced by these machines are increasingly drawing skepticism from judges.",
+                    "copyright": "Cooper Neill for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2JLfLZh"
+        },
+        {
+            "section": "The Weekly",
+            "subsection": "",
+            "title": "Breath Tests Aim to Stop Drunk Driving. Can We Trust the Results?",
+            "abstract": "Tens of thousands of breath tests in more than a dozen states have been thrown out by judges. What does it mean if we can’t rely on this test?",
+            "url": "https://www.nytimes.com/2019/11/01/the-weekly/breathalyzer-drunk-driving.html",
+            "byline": "",
+            "item_type": "Article",
+            "updated_date": "2019-11-03T22:10:57-05:00",
+            "created_date": "2019-11-01T05:00:26-04:00",
+            "published_date": "2019-11-01T05:00:26-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Tests (Sobriety)",
+                "Drunken and Reckless Driving",
+                "The Weekly (TV Program)"
+            ],
+            "org_facet": [
+                "New York Times"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Massachusetts",
+                "New Jersey",
+                "Washington (State)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/03/universal/03theweekly-breathalyzer-breathalyzercloseup/03theweekly-breathalyzer-breathalyzercloseup-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "\"The Weekly\"/The New York Times/FX/Hulu"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/03/universal/03theweekly-breathalyzer-breathalyzercloseup/03theweekly-breathalyzer-breathalyzercloseup-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "\"The Weekly\"/The New York Times/FX/Hulu"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/03/universal/03theweekly-breathalyzer-breathalyzercloseup/03theweekly-breathalyzer-breathalyzercloseup-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 107,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "\"The Weekly\"/The New York Times/FX/Hulu"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/03/universal/03theweekly-breathalyzer-breathalyzercloseup/03theweekly-breathalyzer-breathalyzercloseup-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "\"The Weekly\"/The New York Times/FX/Hulu"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/03/universal/03theweekly-breathalyzer-breathalyzercloseup/03theweekly-breathalyzer-breathalyzercloseup-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1080,
+                    "width": 1920,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "\"The Weekly\"/The New York Times/FX/Hulu"
+                }
+            ],
+            "short_url": "https://nyti.ms/2Nyk9Me"
+        },
+        {
+            "section": "Business",
+            "subsection": "Energy & Environment",
+            "title": "Flood of Oil Is Coming, Complicating Efforts to Fight Global Warming",
+            "abstract": "New supplies from Brazil, Canada, Guyana and Norway may add to a glut, posing a threat to producers in Saudi Arabia, Russia and the United States.",
+            "url": "https://www.nytimes.com/2019/11/03/business/energy-environment/oil-supply.html",
+            "byline": "By CLIFFORD KRAUSS",
+            "item_type": "Article",
+            "updated_date": "2019-11-03T19:41:37-05:00",
+            "created_date": "2019-11-03T18:37:17-05:00",
+            "published_date": "2019-11-03T18:37:17-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Oil (Petroleum) and Gasoline",
+                "International Trade and World Market",
+                "Offshore Drilling and Exploration",
+                "Production",
+                "Prices (Fares, Fees and Rates)"
+            ],
+            "org_facet": [
+                "Organization of the Petroleum Exporting Countries",
+                "Equinor"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Canada",
+                "Norway",
+                "Guyana",
+                "Brazil",
+                "United States",
+                "Saudi Arabia"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2019/10/31/business/00oil1/00oil1-thumbStandard-v2.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A Norwegian oil platform in the North Sea. Norway’s production has declined for two decades, but its development of the Johan Sverdrup deepwater field should reverse the trend.",
+                    "copyright": "Nerijus Adomaitis/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/10/31/business/00oil1/00oil1-thumbLarge-v2.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A Norwegian oil platform in the North Sea. Norway’s production has declined for two decades, but its development of the Johan Sverdrup deepwater field should reverse the trend.",
+                    "copyright": "Nerijus Adomaitis/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/10/31/business/00oil1/merlin_157638756_9ff5550f-c022-4af0-89ee-903039cf0099-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 136,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A Norwegian oil platform in the North Sea. Norway’s production has declined for two decades, but its development of the Johan Sverdrup deepwater field should reverse the trend.",
+                    "copyright": "Nerijus Adomaitis/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/10/31/business/00oil1/00oil1-mediumThreeByTwo210-v2.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A Norwegian oil platform in the North Sea. Norway’s production has declined for two decades, but its development of the Johan Sverdrup deepwater field should reverse the trend.",
+                    "copyright": "Nerijus Adomaitis/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/10/31/business/00oil1/merlin_157638756_9ff5550f-c022-4af0-89ee-903039cf0099-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1469,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A Norwegian oil platform in the North Sea. Norway’s production has declined for two decades, but its development of the Johan Sverdrup deepwater field should reverse the trend.",
+                    "copyright": "Nerijus Adomaitis/Reuters"
+                }
+            ],
+            "short_url": "https://nyti.ms/36r9SdL"
+        },
+        {
+            "section": "U.S.",
+            "subsection": "Politics",
+            "title": "Manafort Spread Ukraine Conspiracy Theory Months Before 2016 Election",
+            "abstract": "Documents from the special counsel’s inquiry show that President Trump’s former campaign chairman shared the theory shortly after stolen Democratic emails were published that June.",
+            "url": "https://www.nytimes.com/2019/11/03/us/politics/manafort-trump-ukraine-conspiracy-theory.html",
+            "byline": "By MICHAEL S. SCHMIDT",
+            "item_type": "Article",
+            "updated_date": "2019-11-03T21:16:22-05:00",
+            "created_date": "2019-11-03T20:33:11-05:00",
+            "published_date": "2019-11-03T20:33:11-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Russian Interference in 2016 US Elections and Ties to Trump Associates",
+                "Presidential Election of 2016",
+                "Trump-Ukraine Whistle-Blower Complaint and Impeachment Inquiry",
+                "United States Politics and Government",
+                "Special Prosecutors (Independent Counsel)"
+            ],
+            "org_facet": [
+                "BuzzFeed Inc"
+            ],
+            "per_facet": [
+                "Manafort, Paul J",
+                "Trump, Donald J",
+                "Clinton, Hillary Rodham",
+                "Gates, Richard W III (1972- )",
+                "Hannity, Sean",
+                "Kilimnik, Konstantin V"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/03/us/politics/03dc-muller1/03dc-muller1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Paul Manafort, the former campaign chairman for President Trump, leaving Manhattan Supreme Court after his arraignment in June.",
+                    "copyright": "Jefferson Siegel for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/03/us/politics/03dc-muller1/03dc-muller1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Paul Manafort, the former campaign chairman for President Trump, leaving Manhattan Supreme Court after his arraignment in June.",
+                    "copyright": "Jefferson Siegel for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/03/us/politics/03dc-muller1/03dc-muller1-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Paul Manafort, the former campaign chairman for President Trump, leaving Manhattan Supreme Court after his arraignment in June.",
+                    "copyright": "Jefferson Siegel for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/03/us/politics/03dc-muller1/03dc-muller1-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Paul Manafort, the former campaign chairman for President Trump, leaving Manhattan Supreme Court after his arraignment in June.",
+                    "copyright": "Jefferson Siegel for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/03/us/politics/03dc-muller1/03dc-muller1-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Paul Manafort, the former campaign chairman for President Trump, leaving Manhattan Supreme Court after his arraignment in June.",
+                    "copyright": "Jefferson Siegel for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2NEvKJQ"
+        },
+        {
+            "section": "U.S.",
+            "subsection": "",
+            "title": "How to Get Trump Voters and Liberals to Talk: Don’t Make Anyone Sit in a Circle",
+            "abstract": "Classes, apps and message boards are trying to bridge the divide between the left and the right, one conversation at a time.",
+            "url": "https://www.nytimes.com/2019/11/03/us/trump-voters-liberals.html",
+            "byline": "By NELLIE BOWLES",
+            "item_type": "Article",
+            "updated_date": "2019-11-03T11:53:00-05:00",
+            "created_date": "2019-11-03T11:53:00-05:00",
+            "published_date": "2019-11-03T11:53:00-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Presidential Election of 2020",
+                "United States Politics and Government",
+                "Debates (Political)"
+            ],
+            "org_facet": [
+                "Better Angels",
+                "Seasteading Institute"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "San Francisco (Calif)",
+                "Rockville (Md)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2019/10/31/us/politics/00civility-01/merlin_163492173_f5919305-1d8d-4ef7-9604-5b6cb0f4a6b3-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Participants exchanged contact information after an invitation-only daylong Better Angels workshop bringing together Republicans and Democrats for a day of structured conversations in Alameda, Calif.",
+                    "copyright": "Jason Henry for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/10/31/us/politics/00civility-01/merlin_163492173_f5919305-1d8d-4ef7-9604-5b6cb0f4a6b3-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Participants exchanged contact information after an invitation-only daylong Better Angels workshop bringing together Republicans and Democrats for a day of structured conversations in Alameda, Calif.",
+                    "copyright": "Jason Henry for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/10/31/us/politics/00civility-01/merlin_163492173_f5919305-1d8d-4ef7-9604-5b6cb0f4a6b3-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 143,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Participants exchanged contact information after an invitation-only daylong Better Angels workshop bringing together Republicans and Democrats for a day of structured conversations in Alameda, Calif.",
+                    "copyright": "Jason Henry for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/10/31/us/politics/00civility-01/00civility-01-mediumThreeByTwo210-v2.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Participants exchanged contact information after an invitation-only daylong Better Angels workshop bringing together Republicans and Democrats for a day of structured conversations in Alameda, Calif.",
+                    "copyright": "Jason Henry for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/10/31/us/politics/00civility-01/merlin_163492173_f5919305-1d8d-4ef7-9604-5b6cb0f4a6b3-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1536,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Participants exchanged contact information after an invitation-only daylong Better Angels workshop bringing together Republicans and Democrats for a day of structured conversations in Alameda, Calif.",
+                    "copyright": "Jason Henry for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/33cCzch"
+        },
+        {
+            "section": "U.S.",
+            "subsection": "Politics",
+            "title": "A Conservative Push to Make Trans Kids and School Sports the Next Battleground in the Culture War",
+            "abstract": "The Kentucky governor’s race has turned into a kind of testing ground to see how transgender issues could rally support for President Trump.",
+            "url": "https://www.nytimes.com/2019/11/03/us/politics/kentucky-transgender-school-sports.html",
+            "byline": "By JEREMY W. PETERS",
+            "item_type": "Article",
+            "updated_date": "2019-11-03T20:37:48-05:00",
+            "created_date": "2019-11-03T20:37:48-05:00",
+            "published_date": "2019-11-03T20:37:48-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Campaign Finance",
+                "Transgender and Transsexuals",
+                "Political Advertising",
+                "Gender",
+                "Presidential Election of 2020",
+                "Conservatism (US Politics)",
+                "Elections, Governors",
+                "Politics and Government"
+            ],
+            "org_facet": [
+                "Human Rights Campaign"
+            ],
+            "per_facet": [
+                "Beshear, Andrew G (1977- )",
+                "Bevin, Matthew"
+            ],
+            "geo_facet": [
+                "Kentucky"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/04/us/politics/04goptransattack-01/04goptransattack-01-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The American Principles Project Foundation is running political ads in Kentucky on socially conservative issues. Francis Cannon, president of the American Principles Project Foundation; Jon Schweppe; and Paul Dupont during a meeting.",
+                    "copyright": "Melissa Lyttle for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/04/us/politics/04goptransattack-01/04goptransattack-01-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The American Principles Project Foundation is running political ads in Kentucky on socially conservative issues. Francis Cannon, president of the American Principles Project Foundation; Jon Schweppe; and Paul Dupont during a meeting.",
+                    "copyright": "Melissa Lyttle for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/04/us/politics/04goptransattack-01/merlin_163638093_246c31ed-8ac1-40ad-bf2b-76be7185b9a5-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The American Principles Project Foundation is running political ads in Kentucky on socially conservative issues. Francis Cannon, president of the American Principles Project Foundation; Jon Schweppe; and Paul Dupont during a meeting.",
+                    "copyright": "Melissa Lyttle for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/04/us/politics/04goptransattack-01/04goptransattack-01-mediumThreeByTwo210-v2.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The American Principles Project Foundation is running political ads in Kentucky on socially conservative issues. Francis Cannon, president of the American Principles Project Foundation; Jon Schweppe; and Paul Dupont during a meeting.",
+                    "copyright": "Melissa Lyttle for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/04/us/politics/04goptransattack-01/merlin_163638093_246c31ed-8ac1-40ad-bf2b-76be7185b9a5-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The American Principles Project Foundation is running political ads in Kentucky on socially conservative issues. Francis Cannon, president of the American Principles Project Foundation; Jon Schweppe; and Paul Dupont during a meeting.",
+                    "copyright": "Melissa Lyttle for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2PKw8ZY"
+        },
+        {
+            "section": "U.S.",
+            "subsection": "Politics",
+            "title": "Billionaires Only? Warren Errs in Saying Whom Her Health Plan Would Tax",
+            "abstract": "The Massachusetts senator told reporters that her plan to pay for “Medicare for all” would raise taxes only on billionaires, but that differs from the proposal she unveiled on Friday.",
+            "url": "https://www.nytimes.com/2019/11/03/us/politics/elizabeth-warren-health-plan-billionaires.html",
+            "byline": "By THOMAS KAPLAN",
+            "item_type": "Article",
+            "updated_date": "2019-11-03T17:12:36-05:00",
+            "created_date": "2019-11-03T11:24:57-05:00",
+            "published_date": "2019-11-03T11:24:57-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Federal Taxes (US)",
+                "Income Tax",
+                "Health Insurance and Managed Care",
+                "Presidential Election of 2020",
+                "United States Politics and Government"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Warren, Elizabeth"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/03/us/politics/03warren/03warren-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Senator Elizabeth Warren at the Liberty and Justice dinner in Des Moines on Friday.",
+                    "copyright": "Jordan Gale for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/03/us/politics/03warren/03warren-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Senator Elizabeth Warren at the Liberty and Justice dinner in Des Moines on Friday.",
+                    "copyright": "Jordan Gale for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/03/us/politics/03warren/merlin_163697646_e3c5c582-42b7-49d0-8f05-01b970b887e1-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Senator Elizabeth Warren at the Liberty and Justice dinner in Des Moines on Friday.",
+                    "copyright": "Jordan Gale for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/03/us/politics/03warren/merlin_163697646_e3c5c582-42b7-49d0-8f05-01b970b887e1-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Senator Elizabeth Warren at the Liberty and Justice dinner in Des Moines on Friday.",
+                    "copyright": "Jordan Gale for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/03/us/politics/03warren/merlin_163697646_e3c5c582-42b7-49d0-8f05-01b970b887e1-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Senator Elizabeth Warren at the Liberty and Justice dinner in Des Moines on Friday.",
+                    "copyright": "Jordan Gale for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/36okytz"
+        },
+        {
+            "section": "Opinion",
+            "subsection": "",
+            "title": "Wear Clothes? Then You’re Part of the Problem",
+            "abstract": "Making, washing and tossing apparel has a big environmental cost.",
+            "url": "https://www.nytimes.com/2019/11/03/opinion/climate-change-clothing-policy.html",
+            "byline": "By ELIZABETH L. CLINE",
+            "item_type": "Article",
+            "updated_date": "2019-11-03T19:00:07-05:00",
+            "created_date": "2019-11-03T19:00:07-05:00",
+            "published_date": "2019-11-03T19:00:07-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Fashion and Apparel",
+                "Greenhouse Gas Emissions",
+                "Textiles",
+                "Global Warming"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/05/opinion/03cline/03cline-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Lauren Tamaki"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/05/opinion/03cline/03cline-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Lauren Tamaki"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/05/opinion/03cline/03cline-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 224,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Lauren Tamaki"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/05/opinion/03cline/03cline-mediumThreeByTwo210-v2.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Lauren Tamaki"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/05/opinion/03cline/03cline-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 2048,
+                    "width": 1740,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Lauren Tamaki"
+                }
+            ],
+            "short_url": "https://nyti.ms/2C7vZI5"
+        },
+        {
+            "section": "Opinion",
+            "subsection": "",
+            "title": "Trump Has to Choose Between the Circus and the White House",
+            "abstract": "He can’t win on Republican votes alone, and what he does to whip up the base hurts him with independents.",
+            "url": "https://www.nytimes.com/2019/11/03/opinion/trump-presidential-election.html",
+            "byline": "By MATTHEW CONTINETTI",
+            "item_type": "Article",
+            "updated_date": "2019-11-03T19:00:07-05:00",
+            "created_date": "2019-11-03T19:00:07-05:00",
+            "published_date": "2019-11-03T19:00:07-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Presidential Election of 2020",
+                "United States Politics and Government",
+                "Voting and Voters",
+                "Presidential Election of 2016"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Trump, Donald J"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/04/opinion/04continettiWeb/04continettiWeb-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Trump at a rally in Dallas in October.",
+                    "copyright": "Anna Moneymaker/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/04/opinion/04continettiWeb/04continettiWeb-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Trump at a rally in Dallas in October.",
+                    "copyright": "Anna Moneymaker/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/04/opinion/04continettiWeb/04continettiWeb-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Trump at a rally in Dallas in October.",
+                    "copyright": "Anna Moneymaker/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/04/opinion/04continettiWeb/04continettiWeb-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Trump at a rally in Dallas in October.",
+                    "copyright": "Anna Moneymaker/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/04/opinion/04continettiWeb/04continettiWeb-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Trump at a rally in Dallas in October.",
+                    "copyright": "Anna Moneymaker/The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2JM5cp8"
+        },
+        {
+            "section": "Opinion",
+            "subsection": "",
+            "title": "Warren Goes 1 for 2 on Medicare",
+            "abstract": "The revenue ideas are pretty good. The plan is still a problem.",
+            "url": "https://www.nytimes.com/2019/11/03/opinion/warren-medicare-for-all-2020.html",
+            "byline": "By DAVID LEONHARDT",
+            "item_type": "Article",
+            "updated_date": "2019-11-03T17:56:04-05:00",
+            "created_date": "2019-11-03T17:56:04-05:00",
+            "published_date": "2019-11-03T17:56:04-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Taxation",
+                "Health Insurance and Managed Care",
+                "Medicare",
+                "Presidential Election of 2020",
+                "United States Politics and Government",
+                "Polls and Public Opinion",
+                "Federal Taxes (US)"
+            ],
+            "org_facet": [
+                "Democratic Party"
+            ],
+            "per_facet": [
+                "Sanders, Bernard",
+                "Warren, Elizabeth"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/03/opinion/sunday/03Leonhardt/03Leonhardt-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Ricardo Santos"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/03/opinion/sunday/03Leonhardt/03Leonhardt-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Ricardo Santos"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/03/opinion/sunday/03Leonhardt/03Leonhardt-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 174,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Ricardo Santos"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/03/opinion/sunday/03Leonhardt/03Leonhardt-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Ricardo Santos"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/03/opinion/sunday/03Leonhardt/03Leonhardt-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 961,
+                    "width": 1049,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Ricardo Santos"
+                }
+            ],
+            "short_url": "https://nyti.ms/2r4SFX6"
+        },
+        {
+            "section": "Opinion",
+            "subsection": "",
+            "title": "My Wish for Michelle Obama",
+            "abstract": "She’s too brilliant to waste her time convincing racists of black people’s worth.",
+            "url": "https://www.nytimes.com/2019/11/03/opinion/michelle-obama-chicago.html",
+            "byline": "By CHARLES M. BLOW",
+            "item_type": "Article",
+            "updated_date": "2019-11-04T00:43:38-05:00",
+            "created_date": "2019-11-03T19:58:41-05:00",
+            "published_date": "2019-11-03T19:58:41-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Race and Ethnicity",
+                "Blacks",
+                "Whites",
+                "United States Politics and Government",
+                "Becoming (Book)"
+            ],
+            "org_facet": [
+                "Obama Foundation"
+            ],
+            "per_facet": [
+                "Obama, Michelle"
+            ],
+            "geo_facet": [
+                "Chicago (Ill)",
+                "United States"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/03/opinion/03blow/03blow-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Michelle Obama and her brother, Craig Robinson, spoke with the journalist Isabel Wilkerson at the Obama Foundation Summit in Chicago on Oct. 29.",
+                    "copyright": "Scott Olson/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/03/opinion/03blow/03blow-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Michelle Obama and her brother, Craig Robinson, spoke with the journalist Isabel Wilkerson at the Obama Foundation Summit in Chicago on Oct. 29.",
+                    "copyright": "Scott Olson/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/03/opinion/03blow/merlin_163543146_4155de19-93f1-4644-8363-0836d7093be6-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Michelle Obama and her brother, Craig Robinson, spoke with the journalist Isabel Wilkerson at the Obama Foundation Summit in Chicago on Oct. 29.",
+                    "copyright": "Scott Olson/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/03/opinion/03blow/03blow-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Michelle Obama and her brother, Craig Robinson, spoke with the journalist Isabel Wilkerson at the Obama Foundation Summit in Chicago on Oct. 29.",
+                    "copyright": "Scott Olson/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/03/opinion/03blow/merlin_163543146_4155de19-93f1-4644-8363-0836d7093be6-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Michelle Obama and her brother, Craig Robinson, spoke with the journalist Isabel Wilkerson at the Obama Foundation Summit in Chicago on Oct. 29.",
+                    "copyright": "Scott Olson/Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/2pD4Bz4"
+        },
+        {
+            "section": "Opinion",
+            "subsection": "Sunday Review",
+            "title": "What I Learned When I Stabbed Myself 52 Times",
+            "abstract": "A person can rage pointlessly at hardship, or draw strength from it.",
+            "url": "https://www.nytimes.com/2019/11/02/opinion/sunday/what-i-learned-when-i-stabbed-myself-52-times.html",
+            "byline": "By FRANK BRUNI",
+            "item_type": "Article",
+            "updated_date": "2019-11-02T22:19:59-04:00",
+            "created_date": "2019-11-02T14:30:08-04:00",
+            "published_date": "2019-11-02T14:30:08-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Eyes and Eyesight",
+                "Drugs (Pharmaceuticals)",
+                "Blindness",
+                "Clinical Trials"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/03/opinion/sunday/03bruni/03bruni-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Ben Wiseman"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/03/opinion/sunday/03bruni/03bruni-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Ben Wiseman"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/03/opinion/sunday/03bruni/03bruni-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 162,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Ben Wiseman"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/03/opinion/sunday/03bruni/03bruni-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Ben Wiseman"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/03/opinion/sunday/03bruni/03bruni-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1750,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Ben Wiseman"
+                }
+            ],
+            "short_url": "https://nyti.ms/34mi8tx"
+        },
+        {
+            "section": "Arts",
+            "subsection": "Television",
+            "title": "Jane Fonda at 81, Proudly Protesting and Going to Jail",
+            "abstract": "Being arrested at her age has its hazards, like keeping balanced with bound hands. But the star says she feels the need to do more about climate change.",
+            "url": "https://www.nytimes.com/2019/11/03/arts/television/04jane-fonda-arrest-protest.html",
+            "byline": "By CARA BUCKLEY",
+            "item_type": "Article",
+            "updated_date": "2019-11-03T14:39:53-05:00",
+            "created_date": "2019-11-03T14:39:53-05:00",
+            "published_date": "2019-11-03T14:39:53-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Demonstrations, Protests and Riots",
+                "Television",
+                "Environment",
+                "Grace and Frankie (TV Program)"
+            ],
+            "org_facet": [
+                "Greenpeace",
+                "Netflix Inc"
+            ],
+            "per_facet": [
+                "Arquette, Rosanna",
+                "Ensler, Eve",
+                "Fonda, Jane",
+                "Keener, Catherine"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/04/arts/04jane-fonda-01/04jane-fonda-01-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Jane Fonda, center, being arrested on Friday along with other activists like Jodie Evans, right. The actress spent the night in jail.",
+                    "copyright": "Jared Soares for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/04/arts/04jane-fonda-01/04jane-fonda-01-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Jane Fonda, center, being arrested on Friday along with other activists like Jodie Evans, right. The actress spent the night in jail.",
+                    "copyright": "Jared Soares for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/04/arts/04jane-fonda-01/merlin_163683525_58b8ec73-ecd6-4a40-a256-c05af00390df-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 152,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Jane Fonda, center, being arrested on Friday along with other activists like Jodie Evans, right. The actress spent the night in jail.",
+                    "copyright": "Jared Soares for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/04/arts/04jane-fonda-01/04jane-fonda-01-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Jane Fonda, center, being arrested on Friday along with other activists like Jodie Evans, right. The actress spent the night in jail.",
+                    "copyright": "Jared Soares for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/04/arts/04jane-fonda-01/merlin_163683525_58b8ec73-ecd6-4a40-a256-c05af00390df-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1637,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Jane Fonda, center, being arrested on Friday along with other activists like Jodie Evans, right. The actress spent the night in jail.",
+                    "copyright": "Jared Soares for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/34vn27p"
+        },
+        {
+            "section": "Arts",
+            "subsection": "Television",
+            "title": "He Helped Make Dave Chappelle Dave Chappelle",
+            "abstract": "Tony Woods has never broken into the mainstream the way his protégé did, but a recent set shows why he has been so influential.",
+            "url": "https://www.nytimes.com/2019/10/30/arts/television/tony-woods-dave-chappelle.html",
+            "byline": "By JASON ZINOMAN",
+            "item_type": "Article",
+            "updated_date": "2019-10-30T18:48:56-04:00",
+            "created_date": "2019-10-30T18:48:56-04:00",
+            "published_date": "2019-10-30T18:48:56-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Comedy and Humor"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Chappelle, Dave",
+                "Woods, Tony (Comedian)"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2019/10/30/arts/30comedy-woods/30comedy-woods-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Tony Woods at the DC Improv. Listen closely and you can hear echoes of Dave Chappelle.",
+                    "copyright": "Justin T. Gellerson for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/10/30/arts/30comedy-woods/30comedy-woods-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Tony Woods at the DC Improv. Listen closely and you can hear echoes of Dave Chappelle.",
+                    "copyright": "Justin T. Gellerson for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/10/30/arts/30comedy-woods/merlin_163455126_5126d530-ee46-42c9-acc4-71dee83ddfa5-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 136,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Tony Woods at the DC Improv. Listen closely and you can hear echoes of Dave Chappelle.",
+                    "copyright": "Justin T. Gellerson for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/10/30/arts/30comedy-woods/30comedy-woods-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Tony Woods at the DC Improv. Listen closely and you can hear echoes of Dave Chappelle.",
+                    "copyright": "Justin T. Gellerson for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/10/30/arts/30comedy-woods/merlin_163455126_5126d530-ee46-42c9-acc4-71dee83ddfa5-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1463,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Tony Woods at the DC Improv. Listen closely and you can hear echoes of Dave Chappelle.",
+                    "copyright": "Justin T. Gellerson for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2N1zXZa"
+        },
+        {
+            "section": "U.S.",
+            "subsection": "",
+            "title": "Tippecanoe and a Sword Caper, Too",
+            "abstract": "A sword said to have belonged to President William Henry Harrison was stolen in 1979. Last month, the sword — or one that looks like it — was found at an auction in Connecticut.",
+            "url": "https://www.nytimes.com/2019/11/03/us/william-henry-harrison-sword.html",
+            "byline": "By LIAM STACK",
+            "item_type": "Article",
+            "updated_date": "2019-11-03T17:47:48-05:00",
+            "created_date": "2019-11-03T09:19:24-05:00",
+            "published_date": "2019-11-03T09:19:24-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Swords",
+                "Robberies and Thefts",
+                "Auctions",
+                "Museums",
+                "Art",
+                "Memorabilia and Souvenirs"
+            ],
+            "org_facet": [
+                "Christie's",
+                "Harrison-Symmes Memorial Foundation"
+            ],
+            "per_facet": [
+                "Harrison, William Henry"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2019/10/31/multimedia/00xp-sword-promo/00xp-sword3-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "William Henry Harrison, the ninth president of the United States of America.",
+                    "copyright": "Hulton Archive/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/10/31/multimedia/00xp-sword-promo/00xp-sword3-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "William Henry Harrison, the ninth president of the United States of America.",
+                    "copyright": "Hulton Archive/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/10/31/multimedia/00xp-sword-promo/00xp-sword3-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "William Henry Harrison, the ninth president of the United States of America.",
+                    "copyright": "Hulton Archive/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/10/31/multimedia/00xp-sword-promo/00xp-sword3-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "William Henry Harrison, the ninth president of the United States of America.",
+                    "copyright": "Hulton Archive/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/10/31/multimedia/00xp-sword-promo/00xp-sword3-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "William Henry Harrison, the ninth president of the United States of America.",
+                    "copyright": "Hulton Archive/Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/2JMlkqp"
+        },
+        {
+            "section": "Business",
+            "subsection": "",
+            "title": "McDonald’s Fires C.E.O. After Relationship With Employee",
+            "abstract": "Steve Easterbrook will be replaced by Chris Kempczinski, who most recently served as president of McDonald’s USA.",
+            "url": "https://www.nytimes.com/2019/11/03/business/mcdonalds-ceo-fired-steve-easterbrook.html",
+            "byline": "By DAVID YAFFE-BELLANY",
+            "item_type": "Article",
+            "updated_date": "2019-11-03T21:56:18-05:00",
+            "created_date": "2019-11-03T16:31:27-05:00",
+            "published_date": "2019-11-03T16:31:27-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Appointments and Executive Changes",
+                "Workplace Hazards and Violations"
+            ],
+            "org_facet": [
+                "McDonald's Corporation"
+            ],
+            "per_facet": [
+                "Easterbrook, Stephen J (1967- )"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/03/business/03mcdonald-sub/merlin_161057853_eed50271-d7c2-4afa-842c-ab66f472f6f1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Steve Easterbrook, the McDonald’s chief executive, at an event in September in the company’s Chicago headquarters promoting the company’s delivery service.",
+                    "copyright": "Alyssa Schukar/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/03/business/03mcdonald-sub/merlin_161057853_eed50271-d7c2-4afa-842c-ab66f472f6f1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Steve Easterbrook, the McDonald’s chief executive, at an event in September in the company’s Chicago headquarters promoting the company’s delivery service.",
+                    "copyright": "Alyssa Schukar/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/03/business/03mcdonald-sub/merlin_161057853_eed50271-d7c2-4afa-842c-ab66f472f6f1-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 138,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Steve Easterbrook, the McDonald’s chief executive, at an event in September in the company’s Chicago headquarters promoting the company’s delivery service.",
+                    "copyright": "Alyssa Schukar/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/03/business/03mcdonald-sub/merlin_161057853_eed50271-d7c2-4afa-842c-ab66f472f6f1-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Steve Easterbrook, the McDonald’s chief executive, at an event in September in the company’s Chicago headquarters promoting the company’s delivery service.",
+                    "copyright": "Alyssa Schukar/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/03/business/03mcdonald-sub/merlin_161057853_eed50271-d7c2-4afa-842c-ab66f472f6f1-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1489,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Steve Easterbrook, the McDonald’s chief executive, at an event in September in the company’s Chicago headquarters promoting the company’s delivery service.",
+                    "copyright": "Alyssa Schukar/Associated Press"
+                }
+            ],
+            "short_url": "https://nyti.ms/36wKPFZ"
+        },
+        {
+            "section": "World",
+            "subsection": "Asia Pacific",
+            "title": "Hong Kong Protesters Call for U.S. Help. China Sees a Conspiracy.",
+            "abstract": "The United States, viewed as a champion of democracy, occupies a symbolic role in the protests. Activists now want President Trump to take a tougher stand against Beijing.",
+            "url": "https://www.nytimes.com/2019/11/03/world/asia/hong-kong-protesters-call-for-us-help-china-sees-a-conspiracy.html",
+            "byline": "By EDWARD WONG",
+            "item_type": "Article",
+            "updated_date": "2019-11-03T15:57:28-05:00",
+            "created_date": "2019-11-03T12:39:18-05:00",
+            "published_date": "2019-11-03T12:39:18-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "United States International Relations",
+                "Hong Kong Protests (2019)",
+                "Demonstrations, Protests and Riots"
+            ],
+            "org_facet": [
+                "Communist Party of China"
+            ],
+            "per_facet": [
+                "Pelosi, Nancy",
+                "Pence, Mike",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [
+                "China",
+                "Hong Kong"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/02/world/02hongkong-us1/02hongkong-us1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Protesters rallying last month in Hong Kong.",
+                    "copyright": "Lam Yik Fei for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/02/world/02hongkong-us1/02hongkong-us1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Protesters rallying last month in Hong Kong.",
+                    "copyright": "Lam Yik Fei for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/02/world/02hongkong-us1/02hongkong-us1-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 121,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Protesters rallying last month in Hong Kong.",
+                    "copyright": "Lam Yik Fei for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/02/world/02hongkong-us1/02hongkong-us1-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Protesters rallying last month in Hong Kong.",
+                    "copyright": "Lam Yik Fei for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/02/world/02hongkong-us1/merlin_162694662_60597041-6574-42b1-8a64-b43bfb41e32f-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Protesters rallying last month in Hong Kong.",
+                    "copyright": "Lam Yik Fei for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2C4Cv2p"
+        },
+        {
+            "section": "Business",
+            "subsection": "",
+            "title": "Under Armour Cooperating With Federal Accounting Investigation",
+            "abstract": "The S.E.C. and Justice Department are looking into accounting practices and related activities dating back to 2017.",
+            "url": "https://www.nytimes.com/2019/11/03/business/under-armour-sec-justice-dept.html",
+            "byline": "By JULIE CRESWELL",
+            "item_type": "Article",
+            "updated_date": "2019-11-03T20:19:34-05:00",
+            "created_date": "2019-11-03T20:19:34-05:00",
+            "published_date": "2019-11-03T20:19:34-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Appointments and Executive Changes",
+                "Accounting and Accountants"
+            ],
+            "org_facet": [
+                "Under Armour Inc",
+                "Justice Department",
+                "Securities and Exchange Commission"
+            ],
+            "per_facet": [
+                "Plank, Kevin A (1972- )"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/04/business/04underarmous/04underarmous-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An Under Armour store in Los Angeles.",
+                    "copyright": "Frederic J. Brown/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/04/business/04underarmous/04underarmous-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An Under Armour store in Los Angeles.",
+                    "copyright": "Frederic J. Brown/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/04/business/04underarmous/04underarmous-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An Under Armour store in Los Angeles.",
+                    "copyright": "Frederic J. Brown/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/04/business/04underarmous/04underarmous-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An Under Armour store in Los Angeles.",
+                    "copyright": "Frederic J. Brown/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/04/business/04underarmous/04underarmous-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1364,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An Under Armour store in Los Angeles.",
+                    "copyright": "Frederic J. Brown/Agence France-Presse — Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/2CadAu8"
+        },
+        {
+            "section": "World",
+            "subsection": "Europe",
+            "title": "Threats and Abuse Prompt Female Lawmakers to Leave U.K. Parliament",
+            "abstract": "Eighteen female members of Parliament are not seeking re-election. Many say a barrage of abuse, online and offline, factored into their decision.",
+            "url": "https://www.nytimes.com/2019/11/01/world/europe/women-parliament-abuse.html",
+            "byline": "By MEGAN SPECIA",
+            "item_type": "Article",
+            "updated_date": "2019-11-01T14:47:33-04:00",
+            "created_date": "2019-11-01T14:47:33-04:00",
+            "published_date": "2019-11-01T14:47:33-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Legislatures and Parliaments",
+                "Politics and Government",
+                "Women and Girls",
+                "Great Britain Withdrawal from EU (Brexit)",
+                "Social Media",
+                "Threats and Threatening Messages"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Great Britain"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/01/world/01britain-women/01britain-women-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "“Nobody in any job should have to put up with threats,” a female member of Parliament said.",
+                    "copyright": "Leon Neal/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/01/world/01britain-women/01britain-women-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "“Nobody in any job should have to put up with threats,” a female member of Parliament said.",
+                    "copyright": "Leon Neal/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/01/world/01britain-women/merlin_163611510_e823e8f5-323c-40ea-81df-5d204f406593-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "“Nobody in any job should have to put up with threats,” a female member of Parliament said.",
+                    "copyright": "Leon Neal/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/01/world/01britain-women/merlin_163611510_e823e8f5-323c-40ea-81df-5d204f406593-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "“Nobody in any job should have to put up with threats,” a female member of Parliament said.",
+                    "copyright": "Leon Neal/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/01/world/01britain-women/merlin_163611510_e823e8f5-323c-40ea-81df-5d204f406593-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "“Nobody in any job should have to put up with threats,” a female member of Parliament said.",
+                    "copyright": "Leon Neal/Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/33hSZAh"
+        },
+        {
+            "section": "Arts",
+            "subsection": "Television",
+            "title": "Brian Tarantina, Actor on ‘The Marvelous Mrs. Maisel,’ Dies at 60",
+            "abstract": "A native New Yorker, Mr. Tarantina studied acting in the city before going on to roles on the stage, in soap operas and in an Emmy Award-winning comedy.",
+            "url": "https://www.nytimes.com/2019/11/03/arts/television/brian-tarantina-dead.html",
+            "byline": "By JOHNNY DIAZ",
+            "item_type": "Article",
+            "updated_date": "2019-11-03T19:53:45-05:00",
+            "created_date": "2019-11-03T17:20:50-05:00",
+            "published_date": "2019-11-03T17:20:50-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Actors and Actresses",
+                "The Marvelous Mrs. Maisel (TV Program)"
+            ],
+            "org_facet": [
+                "Police Department (NYC)"
+            ],
+            "per_facet": [
+                "Brosnahan, Rachel",
+                "Tarantina, Brian"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/03/multimedia/03xp-tarantina/03xp-tarantina-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Brian Tarantina at the Screen Actors Guild Awards on Jan. 27 in Los Angeles.",
+                    "copyright": "Terence Patrick/Getty Images for Turner"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/03/multimedia/03xp-tarantina/03xp-tarantina-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Brian Tarantina at the Screen Actors Guild Awards on Jan. 27 in Los Angeles.",
+                    "copyright": "Terence Patrick/Getty Images for Turner"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/03/multimedia/03xp-tarantina/03xp-tarantina-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 126,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Brian Tarantina at the Screen Actors Guild Awards on Jan. 27 in Los Angeles.",
+                    "copyright": "Terence Patrick/Getty Images for Turner"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/03/multimedia/03xp-tarantina/03xp-tarantina-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Brian Tarantina at the Screen Actors Guild Awards on Jan. 27 in Los Angeles.",
+                    "copyright": "Terence Patrick/Getty Images for Turner"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/03/multimedia/03xp-tarantina/03xp-tarantina-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1087,
+                    "width": 1633,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Brian Tarantina at the Screen Actors Guild Awards on Jan. 27 in Los Angeles.",
+                    "copyright": "Terence Patrick/Getty Images for Turner"
+                }
+            ],
+            "short_url": "https://nyti.ms/2CarvjQ"
+        },
+        {
+            "section": "Sports",
+            "subsection": "",
+            "title": "Jepkosgei’s N.Y.C. Marathon Upset Caps a Year of Leaps and Turmoil",
+            "abstract": "For just over two hours Sunday, the New York City Marathon returned the sport to simplicity. Don’t expect it to last.",
+            "url": "https://www.nytimes.com/2019/11/03/sports/nyc-marathon.html",
+            "byline": "By LINDSAY CROUSE",
+            "item_type": "Article",
+            "updated_date": "2019-11-03T14:25:14-05:00",
+            "created_date": "2019-11-03T11:52:50-05:00",
+            "published_date": "2019-11-03T11:52:50-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Athletics and Sports",
+                "Running"
+            ],
+            "org_facet": [
+                "International Assn of Athletics Federations"
+            ],
+            "per_facet": [
+                "Kipchoge, Eliud",
+                "Kamworor, Geoffrey (1992- )",
+                "Keitany, Mary"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/03/sports/03marathon-ledeall-top-sub/merlin_163793970_5043a41a-2f94-4779-bc3a-4635ae572dc9-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Joyciline Jepkosgei of Kenya won the women’s New York City Marathon on Sunday in 2 hours 22 minutes 38 seconds.",
+                    "copyright": "Uli Seit for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/03/sports/03marathon-ledeall-top-sub/merlin_163793970_5043a41a-2f94-4779-bc3a-4635ae572dc9-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Joyciline Jepkosgei of Kenya won the women’s New York City Marathon on Sunday in 2 hours 22 minutes 38 seconds.",
+                    "copyright": "Uli Seit for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/03/sports/03marathon-ledeall-top-sub/merlin_163793970_5043a41a-2f94-4779-bc3a-4635ae572dc9-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Joyciline Jepkosgei of Kenya won the women’s New York City Marathon on Sunday in 2 hours 22 minutes 38 seconds.",
+                    "copyright": "Uli Seit for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/03/sports/03marathon-ledeall-top-sub/merlin_163793970_5043a41a-2f94-4779-bc3a-4635ae572dc9-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Joyciline Jepkosgei of Kenya won the women’s New York City Marathon on Sunday in 2 hours 22 minutes 38 seconds.",
+                    "copyright": "Uli Seit for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/03/sports/03marathon-ledeall-top-sub/merlin_163793970_5043a41a-2f94-4779-bc3a-4635ae572dc9-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Joyciline Jepkosgei of Kenya won the women’s New York City Marathon on Sunday in 2 hours 22 minutes 38 seconds.",
+                    "copyright": "Uli Seit for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2PKDYCW"
+        },
+        {
+            "section": "U.S.",
+            "subsection": "",
+            "title": "Drones Used in Crime Fly Under the Law’s Radar",
+            "abstract": "Drones are increasingly being used by criminals across the country, and local law enforcement agencies are often powerless to stop them.",
+            "url": "https://www.nytimes.com/2019/11/03/us/drones-crime.html",
+            "byline": "By VANESSA SWALES",
+            "item_type": "Article",
+            "updated_date": "2019-11-03T13:20:38-05:00",
+            "created_date": "2019-11-03T13:20:38-05:00",
+            "published_date": "2019-11-03T13:20:38-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Drones (Pilotless Planes)",
+                "Crime and Criminals",
+                "Police"
+            ],
+            "org_facet": [
+                "Federal Aviation Administration"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2019/10/14/us/00DRONE-COMBO/00DRONE-COMBO-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Drones that have been recovered by the authorities after their use in suspicious or illicit activities.",
+                    "copyright": "From top left: Border Patrol via Associated Press; Virginia Department of Corrections, via Associated Press; Secret Service via Reuters; David Dishneau/Associated Press; Oklahoma Department of Corrections via Reuters; Secretaria de Seguridad Pública Municipal de Tijuana, via Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/10/14/us/00DRONE-COMBO/00DRONE-COMBO-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Drones that have been recovered by the authorities after their use in suspicious or illicit activities.",
+                    "copyright": "From top left: Border Patrol via Associated Press; Virginia Department of Corrections, via Associated Press; Secret Service via Reuters; David Dishneau/Associated Press; Oklahoma Department of Corrections via Reuters; Secretaria de Seguridad Pública Municipal de Tijuana, via Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/10/14/us/00DRONE-COMBO/00DRONE-COMBO-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Drones that have been recovered by the authorities after their use in suspicious or illicit activities.",
+                    "copyright": "From top left: Border Patrol via Associated Press; Virginia Department of Corrections, via Associated Press; Secret Service via Reuters; David Dishneau/Associated Press; Oklahoma Department of Corrections via Reuters; Secretaria de Seguridad Pública Municipal de Tijuana, via Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/10/14/us/00DRONE-COMBO/00DRONE-COMBO-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Drones that have been recovered by the authorities after their use in suspicious or illicit activities.",
+                    "copyright": "From top left: Border Patrol via Associated Press; Virginia Department of Corrections, via Associated Press; Secret Service via Reuters; David Dishneau/Associated Press; Oklahoma Department of Corrections via Reuters; Secretaria de Seguridad Pública Municipal de Tijuana, via Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/10/14/us/00DRONE-COMBO/00DRONE-COMBO-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Drones that have been recovered by the authorities after their use in suspicious or illicit activities.",
+                    "copyright": "From top left: Border Patrol via Associated Press; Virginia Department of Corrections, via Associated Press; Secret Service via Reuters; David Dishneau/Associated Press; Oklahoma Department of Corrections via Reuters; Secretaria de Seguridad Pública Municipal de Tijuana, via Associated Press"
+                }
+            ],
+            "short_url": "https://nyti.ms/2qg1u00"
+        },
+        {
+            "section": "Technology",
+            "subsection": "",
+            "title": "Teens Love TikTok. Silicon Valley Is Trying to Stage an Intervention.",
+            "abstract": "American’s big tech companies haven’t had to worry much about competition. Then an addictive Chinese app arrived.",
+            "url": "https://www.nytimes.com/2019/11/03/technology/tiktok-facebook-youtube.html",
+            "byline": "By JACK NICAS",
+            "item_type": "Article",
+            "updated_date": "2019-11-04T02:53:58-05:00",
+            "created_date": "2019-11-03T12:48:43-05:00",
+            "published_date": "2019-11-03T12:48:43-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Social Media",
+                "Mobile Applications",
+                "Computers and the Internet",
+                "Video Recordings, Downloads and Streaming",
+                "Censorship",
+                "Mergers, Acquisitions and Divestitures"
+            ],
+            "org_facet": [
+                "Facebook Inc",
+                "Google Inc",
+                "Instagram Inc",
+                "Snap Inc",
+                "TikTok (ByteDance)",
+                "YouTube.com"
+            ],
+            "per_facet": [
+                "Zuckerberg, Mark E",
+                "Spiegel, Evan"
+            ],
+            "geo_facet": [
+                "China"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/04/business/04TikTok/04TikTok-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Jenice Kim"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/04/business/04TikTok/04TikTok-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Jenice Kim"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/04/business/04TikTok/04TikTok-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Jenice Kim"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/04/business/04TikTok/04TikTok-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Jenice Kim"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/04/business/04TikTok/04TikTok-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1200,
+                    "width": 1800,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Jenice Kim"
+                }
+            ],
+            "short_url": "https://nyti.ms/2NacqFq"
+        },
+        {
+            "section": "New York",
+            "subsection": "",
+            "title": "She Fought for Muslim Women. Then She Was Found Dead.",
+            "abstract": "The death of Ola Salem, whose body was discovered in a Staten Island park, has left her family and friends with more questions than answers.",
+            "url": "https://www.nytimes.com/2019/11/03/nyregion/ola-salem-staten-island-death.html",
+            "byline": "By ANNIE CORREAL",
+            "item_type": "Article",
+            "updated_date": "2019-11-03T19:09:58-05:00",
+            "created_date": "2019-11-03T17:56:26-05:00",
+            "published_date": "2019-11-03T17:56:26-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Muslim Americans",
+                "Domestic Violence",
+                "Murders, Attempted Murders and Homicides"
+            ],
+            "org_facet": [
+                "Asiyah Women's Shelter"
+            ],
+            "per_facet": [
+                "Ola Salem"
+            ],
+            "geo_facet": [
+                "Staten Island (NYC)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/03/nyregion/03Parkdeath/03Parkdeath-thumbStandard.png",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Ola Salem.",
+                    "copyright": "Salem family, via Facebook"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/03/nyregion/03Parkdeath/03Parkdeath-thumbLarge.png",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Ola Salem.",
+                    "copyright": "Salem family, via Facebook"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/03/nyregion/03Parkdeath/03Parkdeath-articleInline.png",
+                    "format": "Normal",
+                    "height": 191,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Ola Salem.",
+                    "copyright": "Salem family, via Facebook"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/03/nyregion/03Parkdeath/03Parkdeath-mediumThreeByTwo210.png",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Ola Salem.",
+                    "copyright": "Salem family, via Facebook"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/03/nyregion/03Parkdeath/03Parkdeath-superJumbo.png",
+                    "format": "superJumbo",
+                    "height": 634,
+                    "width": 632,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Ola Salem.",
+                    "copyright": "Salem family, via Facebook"
+                }
+            ],
+            "short_url": "https://nyti.ms/2NBT9M1"
+        },
+        {
+            "section": "Smarter Living",
+            "subsection": "",
+            "title": "How to Make ‘Self-Care’ Actually Feel Like Self-Care",
+            "abstract": "Face masks and bubbles baths? Next.",
+            "url": "https://www.nytimes.com/2019/11/03/smarter-living/self-care-routines-that-actually-help.html",
+            "byline": "By TIM HERRERA",
+            "item_type": "Article",
+            "updated_date": "2019-11-03T17:26:17-05:00",
+            "created_date": "2019-11-03T15:00:03-05:00",
+            "published_date": "2019-11-03T15:00:03-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/04/smarter-living/04sl_newsletter_selfcare/00sl_newsletter_selfcare-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Rose Wong"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/04/smarter-living/04sl_newsletter_selfcare/00sl_newsletter_selfcare-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Rose Wong"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/04/smarter-living/04sl_newsletter_selfcare/00sl_newsletter_selfcare-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Rose Wong"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/04/smarter-living/04sl_newsletter_selfcare/00sl_newsletter_selfcare-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Rose Wong"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/04/smarter-living/04sl_newsletter_selfcare/00sl_newsletter_selfcare-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Rose Wong"
+                }
+            ],
+            "short_url": "https://nyti.ms/2r79mBf"
+        },
+        {
+            "section": "Smarter Living",
+            "subsection": "",
+            "title": "Why You Should Find Time to Be Alone With Yourself",
+            "abstract": "Don’t confuse loneliness with time by yourself.",
+            "url": "https://www.nytimes.com/2019/10/28/smarter-living/the-benefits-of-being-alone.html",
+            "byline": "By MICAELA MARINI HIGGS",
+            "item_type": "Article",
+            "updated_date": "2019-10-29T11:40:42-04:00",
+            "created_date": "2019-10-28T22:22:48-04:00",
+            "published_date": "2019-10-28T22:22:48-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Psychology and Psychologists"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2019/10/28/smarter-living/28sl_alone/04sl_alone-thumbStandard.png",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": " ",
+                    "copyright": "Filip Fröhlich"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/10/28/smarter-living/28sl_alone/04sl_alone-thumbLarge.png",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": " ",
+                    "copyright": "Filip Fröhlich"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/10/28/smarter-living/28sl_alone/04sl_alone-articleInline-v2.png",
+                    "format": "Normal",
+                    "height": 92,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": " ",
+                    "copyright": "Filip Fröhlich"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/10/28/smarter-living/28sl_alone/04sl_alone-mediumThreeByTwo210-v2.png",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": " ",
+                    "copyright": "Filip Fröhlich"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/10/28/smarter-living/28sl_alone/04sl_alone-superJumbo-v2.png",
+                    "format": "superJumbo",
+                    "height": 987,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": " ",
+                    "copyright": "Filip Fröhlich"
+                }
+            ],
+            "short_url": "https://nyti.ms/32WuKqV"
+        },
+        {
+            "section": "Smarter Living",
+            "subsection": "",
+            "title": "How to Eat Alone (and Like It)",
+            "abstract": "Table for one? It’s not as bad as it sounds. Here’s how to dine by yourself and enjoy every bite.",
+            "url": "https://www.nytimes.com/2019/10/30/smarter-living/how-to-eat-alone-and-like-it.html",
+            "byline": "By JESS MCHUGH",
+            "item_type": "Article",
+            "updated_date": "2019-10-30T20:00:01-04:00",
+            "created_date": "2019-10-30T20:00:01-04:00",
+            "published_date": "2019-10-30T20:00:01-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Food",
+                "Restaurants"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/04/smarter-living/04sl_eatingalone/00sl_eatingalone-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Eva Cremers"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/04/smarter-living/04sl_eatingalone/00sl_eatingalone-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Eva Cremers"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/04/smarter-living/04sl_eatingalone/00sl_eatingalone-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Eva Cremers"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/04/smarter-living/04sl_eatingalone/00sl_eatingalone-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Eva Cremers"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/04/smarter-living/04sl_eatingalone/00sl_eatingalone-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Eva Cremers"
+                }
+            ],
+            "short_url": "https://nyti.ms/34imy4F"
+        },
+        {
+            "section": "Smarter Living",
+            "subsection": "",
+            "title": "How to Give People Advice They’ll Be Delighted to Take",
+            "abstract": "Evaluate, collaborate and support.",
+            "url": "https://www.nytimes.com/2019/10/21/smarter-living/how-to-give-better-advice.html",
+            "byline": "By ANNA GOLDFARB",
+            "item_type": "Article",
+            "updated_date": "2019-10-22T04:15:08-04:00",
+            "created_date": "2019-10-21T01:53:45-04:00",
+            "published_date": "2019-10-21T01:53:45-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Dating and Relationships"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Tost, Leigh",
+                "Havrilesky, Heather",
+                "Li, Melody",
+                "Kleon, Austin",
+                "Marshall, Dee C."
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2019/10/21/smarter-living/10sl_advice/10sl_advice-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Derek Abella"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/10/21/smarter-living/10sl_advice/10sl_advice-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Derek Abella"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/10/21/smarter-living/10sl_advice/10sl_advice-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 285,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Derek Abella"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/10/21/smarter-living/10sl_advice/10sl_advice-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Derek Abella"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/10/21/smarter-living/10sl_advice/10sl_advice-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 2048,
+                    "width": 1366,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Derek Abella"
+                }
+            ],
+            "short_url": "https://nyti.ms/2P5kDMh"
+        },
+        {
+            "section": "Smarter Living",
+            "subsection": "",
+            "title": "5 Cheap(ish) Things to Take Stargazing",
+            "abstract": "Go out and see something spectacular.",
+            "url": "https://www.nytimes.com/2019/10/30/smarter-living/stargazing-gear.html",
+            "byline": "By RIA MISRA",
+            "item_type": "Article",
+            "updated_date": "2019-10-30T22:00:03-04:00",
+            "created_date": "2019-10-30T22:00:03-04:00",
+            "published_date": "2019-10-30T22:00:03-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2019/10/31/smarter-living/31sl-newsletter/31sl-newsletter-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "iStock"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/10/31/smarter-living/31sl-newsletter/31sl-newsletter-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "iStock"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/10/31/smarter-living/31sl-newsletter/31sl-newsletter-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 95,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "iStock"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/10/31/smarter-living/31sl-newsletter/31sl-newsletter-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "iStock"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/10/31/smarter-living/31sl-newsletter/31sl-newsletter-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1024,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "iStock"
+                }
+            ],
+            "short_url": "https://nyti.ms/2Wv4SQp"
+        },
+        {
+            "section": "Travel",
+            "subsection": "",
+            "title": "Missed Burning Man? Burning Man, or at Least Its Art, Is Coming to You",
+            "abstract": "The monumental art pieces of Nevada’s Burning Man festival have begun to show up in plazas, parks, museums and galleries across the United States.",
+            "url": "https://www.nytimes.com/2019/11/03/travel/burning-man-art-installations.html",
+            "byline": "By FINN-OLAF JONES",
+            "item_type": "Article",
+            "updated_date": "2019-11-03T04:00:08-05:00",
+            "created_date": "2019-11-03T04:00:07-05:00",
+            "published_date": "2019-11-03T04:00:07-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Art",
+                "Burning Man Festival",
+                "Sculpture",
+                "Museums"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Black Rock Desert (Nev)",
+                "Reno (Nev)",
+                "Portland (Ore)",
+                "Las Vegas (Nev)",
+                "Arlington (Tex)",
+                "Healdsburg (Calif)",
+                "Toronto (Ontario)",
+                "Philadelphia (Pa)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/10/travel/00burningman-snort/00burningman-snort-thumbStandard-v2.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "“Lord Snort” is now on display at Soda Rock Winery in California’s Anderson Valley.",
+                    "copyright": "Carly McClane"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/10/travel/00burningman-snort/00burningman-snort-thumbLarge-v2.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "“Lord Snort” is now on display at Soda Rock Winery in California’s Anderson Valley.",
+                    "copyright": "Carly McClane"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/10/travel/00burningman-snort/00burningman-snort-articleInline-v2.jpg",
+                    "format": "Normal",
+                    "height": 125,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "“Lord Snort” is now on display at Soda Rock Winery in California’s Anderson Valley.",
+                    "copyright": "Carly McClane"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/10/travel/00burningman-snort/00burningman-snort-mediumThreeByTwo210-v2.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "“Lord Snort” is now on display at Soda Rock Winery in California’s Anderson Valley.",
+                    "copyright": "Carly McClane"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/10/travel/00burningman-snort/00burningman-snort-superJumbo-v2.jpg",
+                    "format": "superJumbo",
+                    "height": 845,
+                    "width": 1280,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "“Lord Snort” is now on display at Soda Rock Winery in California’s Anderson Valley.",
+                    "copyright": "Carly McClane"
+                }
+            ],
+            "short_url": "https://nyti.ms/34r7QIB"
+        },
+        {
+            "section": "Magazine",
+            "subsection": "",
+            "title": "‘Succession’ Knows How to Toy with Your Class Rage. Hence the Chicken.",
+            "abstract": "The HBO show draws drama and comedy from the plutocrats who order so much of American life. But it’s just as deft at manipulating its viewers’ feelings.",
+            "url": "https://www.nytimes.com/2019/10/30/magazine/succession-hbo-tom-chicken.html",
+            "byline": "By MICHELLE DEAN",
+            "item_type": "Article",
+            "updated_date": "2019-11-01T17:17:11-04:00",
+            "created_date": "2019-10-30T05:00:25-04:00",
+            "published_date": "2019-10-30T05:00:25-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Succession (TV Program)",
+                "Television",
+                "Income Inequality"
+            ],
+            "org_facet": [
+                "Home Box Office"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/03/magazine/03mag-screenland-1/03mag-screenland-1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Photo illustration by Najeebah Al-Ghadban"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/03/magazine/03mag-screenland-1/03mag-screenland-1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Photo illustration by Najeebah Al-Ghadban"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/03/magazine/03mag-screenland-1/03mag-screenland-1-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 106,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Photo illustration by Najeebah Al-Ghadban"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/03/magazine/03mag-screenland-1/03mag-screenland-1-mediumThreeByTwo210-v2.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Photo illustration by Najeebah Al-Ghadban"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/03/magazine/03mag-screenland-1/03mag-screenland-1-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1146,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Photo illustration by Najeebah Al-Ghadban"
+                }
+            ],
+            "short_url": "https://nyti.ms/2q5mw10"
+        },
+        {
+            "section": "Books",
+            "subsection": "Book Review",
+            "title": "The Age of ‘The Age of Innocence’",
+            "abstract": "In some ways, Edith Wharton’s classic novel feels more current than ever. Elif Batuman explains.",
+            "url": "https://www.nytimes.com/2019/11/01/books/review/age-of-innocence-edith-wharton-elif-batuman.html",
+            "byline": "By ELIF BATUMAN",
+            "item_type": "Article",
+            "updated_date": "2019-11-01T05:00:09-04:00",
+            "created_date": "2019-11-01T05:00:09-04:00",
+            "published_date": "2019-11-01T05:00:09-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Books and Literature",
+                "Age of Innocence (Book)"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Wharton, Edith"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/03/books/review/03Batuman/03Batuman-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Raptis Rare Books"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/03/books/review/03Batuman/03Batuman-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Raptis Rare Books"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/03/books/review/03Batuman/03Batuman-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 152,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Raptis Rare Books"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/03/books/review/03Batuman/03Batuman-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Raptis Rare Books"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/03/books/review/03Batuman/03Batuman-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1639,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Raptis Rare Books"
+                }
+            ],
+            "short_url": "https://nyti.ms/336xySu"
+        },
+        {
+            "section": "Sports",
+            "subsection": "Pro Basketball",
+            "title": "The N.B.A. Is Not Very Fun Right Now",
+            "abstract": "This was supposed to be a season of intrigue and excitement, but injuries, controversy and a big-man brawl have cast a pall over the games so far.",
+            "url": "https://www.nytimes.com/2019/11/02/sports/basketball/curry-zion-nba-injuries.html",
+            "byline": "By MARC STEIN",
+            "item_type": "Article",
+            "updated_date": "2019-11-02T17:26:10-04:00",
+            "created_date": "2019-11-02T16:32:24-04:00",
+            "published_date": "2019-11-02T16:32:24-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Basketball",
+                "Sports Injuries"
+            ],
+            "org_facet": [
+                "Golden State Warriors",
+                "National Basketball Assn"
+            ],
+            "per_facet": [
+                "Curry, Stephen"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/03/sports/03nba-steinpro-lede/merlin_163608021_54555c3b-d480-4aaf-9679-1350fa78e64c-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The injury to Warriors guard Stephen Curry capped a gloomy October for the N.B.A.",
+                    "copyright": "Kyle Terada/USA Today Sports, via Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/03/sports/03nba-steinpro-lede/merlin_163608021_54555c3b-d480-4aaf-9679-1350fa78e64c-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The injury to Warriors guard Stephen Curry capped a gloomy October for the N.B.A.",
+                    "copyright": "Kyle Terada/USA Today Sports, via Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/03/sports/03nba-steinpro-lede/merlin_163608021_54555c3b-d480-4aaf-9679-1350fa78e64c-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The injury to Warriors guard Stephen Curry capped a gloomy October for the N.B.A.",
+                    "copyright": "Kyle Terada/USA Today Sports, via Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/03/sports/03nba-steinpro-lede/merlin_163608021_54555c3b-d480-4aaf-9679-1350fa78e64c-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The injury to Warriors guard Stephen Curry capped a gloomy October for the N.B.A.",
+                    "copyright": "Kyle Terada/USA Today Sports, via Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2019/11/03/sports/03nba-steinpro-lede/merlin_163608021_54555c3b-d480-4aaf-9679-1350fa78e64c-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The injury to Warriors guard Stephen Curry capped a gloomy October for the N.B.A.",
+                    "copyright": "Kyle Terada/USA Today Sports, via Reuters"
+                }
+            ],
+            "short_url": "https://nyti.ms/2N9xX0P"
+        }
+    ]
+}

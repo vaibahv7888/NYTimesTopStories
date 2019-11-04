@@ -50,6 +50,7 @@
 		D4C37737236D5C690077E0F1 /* CreateStoryEntitiesService.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4C37736236D5C690077E0F1 /* CreateStoryEntitiesService.swift */; };
 		D4C37739236D5CB80077E0F1 /* CreateStoryEntitiesServiceProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4C37738236D5CB80077E0F1 /* CreateStoryEntitiesServiceProtocol.swift */; };
 		D4C3773B236D622F0077E0F1 /* TopStoryTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4C3773A236D622F0077E0F1 /* TopStoryTableViewCell.swift */; };
+		D4EF13252370300E00B6F873 /* topStories_test.json in Resources */ = {isa = PBXBuildFile; fileRef = D4EF13242370300E00B6F873 /* topStories_test.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -119,6 +120,7 @@
 		D4C37736236D5C690077E0F1 /* CreateStoryEntitiesService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateStoryEntitiesService.swift; sourceTree = "<group>"; };
 		D4C37738236D5CB80077E0F1 /* CreateStoryEntitiesServiceProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateStoryEntitiesServiceProtocol.swift; sourceTree = "<group>"; };
 		D4C3773A236D622F0077E0F1 /* TopStoryTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopStoryTableViewCell.swift; sourceTree = "<group>"; };
+		D4EF13242370300E00B6F873 /* topStories_test.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = topStories_test.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -184,6 +186,7 @@
 		D423746E236B45C30049E3F5 /* eGymTests */ = {
 			isa = PBXGroup;
 			children = (
+				D4EF132323702FF300B6F873 /* TestData */,
 				D423746F236B45C30049E3F5 /* eGymTests.swift */,
 				D4237471236B45C30049E3F5 /* Info.plist */,
 			);
@@ -465,6 +468,14 @@
 			path = entities;
 			sourceTree = "<group>";
 		};
+		D4EF132323702FF300B6F873 /* TestData */ = {
+			isa = PBXGroup;
+			children = (
+				D4EF13242370300E00B6F873 /* topStories_test.json */,
+			);
+			path = TestData;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -579,6 +590,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D4EF13252370300E00B6F873 /* topStories_test.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
